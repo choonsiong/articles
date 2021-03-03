@@ -9,5 +9,6 @@
 - [Modules](https://github.com/golang/go/wiki/Modules)
 - [Go Interfaces Explained](https://www.alexedwards.net/blog/interfaces-explained)
 - [Understanding Mutexes](https://www.alexedwards.net/blog/understanding-mutexes)
+- [Disable `http.FileServer` Directory Listings](https://www.alexedwards.net/blog/disable-http-fileserver-directory-listings)
 - [Go Best Practices, Six Years In](https://peter.bourgon.org/go-best-practices-2016/)
 - [Go Build Template](https://github.com/thockin/go-build-template)
